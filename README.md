@@ -44,6 +44,8 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEOMAZENDA2&layout=compact&title_color=55A48C&text_color=fff&bg_color=0d1117&border_color=fff0" />  
 </div>
 
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
@@ -67,9 +69,6 @@
 <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="JQuery" title="JQuery" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
-
----
-
 <br>
 
 <!--
