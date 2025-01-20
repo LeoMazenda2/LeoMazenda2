@@ -21,7 +21,7 @@
             src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/seu-perfil">
+    <a href="[https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/leonildo-vivaldo-mazenda-202121210/)">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
