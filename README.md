@@ -1,9 +1,10 @@
 ## Hi there 👋
 
+**`Software Developer`**
+
 💻 **Software Engineer | Passionate about scalable and innovative solutions** 🚀  
 🌍 **Experience:** High-impact projects in government and private sectors  
 📚 **Lifelong Learner:** Always exploring new technologies and ideas  
-
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
@@ -43,6 +44,14 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEOMAZENDA2&layout=compact&title_color=55A48C&text_color=fff&bg_color=0d1117&border_color=fff0" />  
 </div>
 
+<br />
+### 🚀 My Skills:
+- **Programming Languages:** C#, JavaScript
+- **Frameworks/Technologies:** .NET Core, .NET Framework, Blazor; Angular, React
+- **Databases:** SQLServer, MySQL, Postgres, MariaDB, MongoDB
+- **DevOps Tools:** Docker, Kubernetes, Jenkins, Git
+
+<br />
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -159,14 +168,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-
-### 🚀 My Skills:
-- **Programming Languages:** C#, JavaScript
-- **Frameworks/Technologies:** .NET Core, .NET Framework, Blazor; Angular, React
-- **Databases:** SQLServer, MySQL, Postgres, MariaDB, MongoDB
-- **DevOps Tools:** Docker, Kubernetes, Jenkins, Git
-
-<br />
 <br/>
 <br/>
 <!--
