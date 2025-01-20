@@ -39,10 +39,6 @@
 ---
 
 ### 🚀 My Skills:
-- **Programming Languages:** C#, JavaScript, Python, Java, PHP
-- **Frameworks/Technologies:** .NET Core, .NET Framework, Angular, Vue.Js, Flutter, React, Spring Boot, Kotlin, Android, Swift, Laravel
-- **Databases:** MySQL, MongoDB, Firebase, SQLServer
-- **DevOps Tools:** Docker, Kubernetes, Git, CI/CD Pipelines
 - **Programming Languages:** C#, JavaScript
 - **Frameworks/Technologies:** .NET Core, .NET Framework, Blazor; Angular, React
 - **Databases:** SQLServer, MySQL, Postegre, MariaDB, MongoDB
