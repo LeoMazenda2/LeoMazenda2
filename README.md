@@ -21,14 +21,14 @@
             src="https://custom-icon-badges.demolab.com/github/followers/LeoMazenda2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-   <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+   <a href="https://www.linkedin.com/in/leonildo-vivaldo-mazenda-202121210/" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://twitter.com/seu_usuario" target="_blank">
+    <a href="https://www.linkedin.com/in/leonildo-vivaldo-mazenda-202121210/" target="_blank">
         <img 
             alt="Twitter" 
             title="Siga-me no Twitter" 
@@ -43,7 +43,6 @@
   <img width="49%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/LEOMAZENDA2?cardType=level&theme=calm&preferLogin=false&Background=FFFFFF00&Text=14B2EE&Title=55A48C&Border=DDDDDD00&Ring=55A48C" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEOMAZENDA2&layout=compact&title_color=55A48C&text_color=fff&bg_color=0d1117&border_color=fff0" />  
 </div>
-<br />
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -69,7 +68,6 @@
 <img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="JQuery" title="JQuery" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
 <br>
-<br/>
 <!--
 **LEOMAZENDA2/LEOMAZENDA2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
