@@ -1,4 +1,4 @@
-## Hi there 👋
+## "Hi there! This is my new account 👋"
 
 **`Software Developer`**
 
