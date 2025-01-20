@@ -45,7 +45,7 @@
 </div>
 
 <br />
-### 🚀 My Skills:
+### 🚀 My Skills: ###
 - **Programming Languages:** C#, JavaScript
 - **Frameworks/Technologies:** .NET Core, .NET Framework, Blazor; Angular, React
 - **Databases:** SQLServer, MySQL, Postgres, MariaDB, MongoDB
