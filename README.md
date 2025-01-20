@@ -38,13 +38,6 @@
 
 ---
 
-### 🚀 My Skills:
-- **Programming Languages:** C#, JavaScript
-- **Frameworks/Technologies:** .NET Core, .NET Framework, Blazor; Angular, React
-- **Databases:** SQLServer, MySQL, Postegre, MariaDB, MongoDB
-- **DevOps Tools:** Docker, Kubernetes, Git
-
-<br />
 <div>    
   <img width="49%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/LEOMAZENDA2?cardType=level&theme=calm&preferLogin=false&Background=FFFFFF00&Text=14B2EE&Title=55A48C&Border=DDDDDD00&Ring=55A48C" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEOMAZENDA2&layout=compact&title_color=55A48C&text_color=fff&bg_color=0d1117&border_color=fff0" />  
@@ -165,6 +158,15 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+
+### 🚀 My Skills:
+- **Programming Languages:** C#, JavaScript
+- **Frameworks/Technologies:** .NET Core, .NET Framework, Blazor; Angular, React
+- **Databases:** SQLServer, MySQL, Postgres, MariaDB, MongoDB
+- **DevOps Tools:** Docker, Kubernetes, Jenkins, Git
+
+<br />
 <br/>
 <br/>
 <!--
