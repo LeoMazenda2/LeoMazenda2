@@ -1,4 +1,4 @@
-README do Github    ## Hi there 👋
+## Hi there 👋
 
 💻 **Software Engineer | Passionate about scalable and innovative solutions** 🚀  
 🌍 **Experience:** High-impact projects in government and private sectors  
@@ -32,8 +32,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Follow me here 💻🚀
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-miranda-cardoso-414071245/)][(https://www.linkedin.com/in/leonildo-vivaldo-mazenda-202121210/)]
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/kelly.dreezy/)](https://www.instagram.com/kelly.dreezy/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/kelly.dreezy/)](https://www.facebook.com/kelly.dreezy/)
